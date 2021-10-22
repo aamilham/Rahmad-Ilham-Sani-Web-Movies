@@ -45,6 +45,7 @@ body {
 
 .menu-list-item{
     margin: 30px;
+    color: white;
 }
 
 .menu-list-item.active{
@@ -174,3 +175,13 @@ body {
 	animation-duration: 1s;
 }
 
+.trailer-button {
+    background-color: #151515;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    margin: 0 450px;
+}
